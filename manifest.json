@@ -1,0 +1,11 @@
+{
+  "name": "DRSO 19ºBPM",
+  "short_name": "DRSO",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#3c4a1e",
+  "theme_color": "#3c4a1e",
+  "icons": [
+    { "src": "icone.jpg", "sizes": "512x512", "type": "image/jpeg", "purpose": "any" }
+  ]
+}
