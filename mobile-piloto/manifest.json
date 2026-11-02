@@ -1,0 +1,17 @@
+{
+  "name": "DRSO 2.0 Mobile Piloto",
+  "short_name": "DRSO 2.0",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#3c4a1e",
+  "theme_color": "#3c4a1e",
+  "icons": [
+    {
+      "src": "../icone-transparente.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
